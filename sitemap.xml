@@ -3,48 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/about/about/</loc>
+    <loc>http://jimswebhost.github.io/about/about/</loc>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/about/</loc>
+    <loc>http://jimswebhost.github.io/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/services/services/</loc>
+    <loc>http://jimswebhost.github.io/services/services/</loc>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/categories/</loc>
+    <loc>http://jimswebhost.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/services/sevices2/</loc>
+    <loc>http://jimswebhost.github.io/services/sevices2/</loc>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/</loc>
+    <loc>http://jimswebhost.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/services/sevices1/</loc>
+    <loc>http://jimswebhost.github.io/services/sevices1/</loc>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/services/</loc>
+    <loc>http://jimswebhost.github.io/services/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/tags/</loc>
+    <loc>http://jimswebhost.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alias2.entnorth.co.uk/services/sevices3/</loc>
+    <loc>http://jimswebhost.github.io/services/sevices3/</loc>
   </url>
   
 </urlset>
