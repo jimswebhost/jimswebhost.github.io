@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Otolaryngology in Leeds</title>
+    <link>http://alias2.entnorth.co.uk/about/</link>
+    <description>Recent content in Abouts on Otolaryngology in Leeds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://alias2.entnorth.co.uk/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://alias2.entnorth.co.uk/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alias2.entnorth.co.uk/about/about/</guid>
+      <description>We are Leeds based Consultant ENT Surgeons, practicing at Spire Leeds Hospital, Nuffield Hospital Leeds and Leeds Teaching Hospitals NHS Trust. We offer a full range of adult and paediatric Otorhinolaryngology services to the good people of Leeds and further afield. Having undertaken higher surgical fellowships in Head &amp;amp; Neck Surgical Oncology and Thyroid surgery (JM) and Otology, Neurotology and Hearing Implants (TW) we provide subspecialist care in these areas. We undertake private healthcare for patients insured with all major private healthcare providers as well as self pay patients.</description>
+    </item>
+    
+  </channel>
+</rss>
