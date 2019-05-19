@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otolaryngology in Leeds</title>
+    <link>https://jimswebhost.github.io/</link>
+    <description>Recent content on Otolaryngology in Leeds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jimswebhost.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://jimswebhost.github.io/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimswebhost.github.io/about/about/</guid>
+      <description>We are Leeds based Consultant ENT Surgeons, practicing at Spire Leeds Hospital, Nuffield Hospital Leeds and Leeds Teaching Hospitals NHS Trust. We offer a full range of adult and paediatric Otorhinolaryngology services to the good people of Leeds and further afield. Having undertaken higher surgical fellowships in Head &amp;amp; Neck Surgical Oncology and Thyroid surgery (JM) and Otology, Neurotology and Hearing Implants (TW) we provide subspecialist care in these areas. We undertake private healthcare for patients insured with all major private healthcare providers as well as self pay patients.</description>
+    </item>
+    
+    <item>
+      <title>At your consultation</title>
+      <link>https://jimswebhost.github.io/services/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimswebhost.github.io/services/services/</guid>
+      <description>At your consultation you will have the opportunity to discuss the problem you have with the Consultant and undergo relevant clinical examination.
+As part of the assessment and/or treatment addition procedures may be necessary and might incur an additional charge, as outlined below
+   Condition Procedure Procedure Code     Nose &amp;amp; Throat Fibreoptic nasendoscopy E2500/E2501   Ears Microsuction D0702   Ears Removal foreign body D0730   Nose Cautery E0380   Hearing Audiogram 20220   Hearing Tympanography 20230   Balance Epley’s mnvre AA577    </description>
+    </item>
+    
+    <item>
+      <title>Conditions Treated</title>
+      <link>https://jimswebhost.github.io/services/sevices2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimswebhost.github.io/services/sevices2/</guid>
+      <description>Both JM and TW provide general Ear, Nose and Throat services for both paediatric and adult patients including;
+ Tonsillitis, tonsillectomy and adenoidectomy Hearing loss affecting children and adults Glue ear and grommets Tongue tie (frenulotomy) Blocked noses and septoplasty Rhinitis , sinusitis and nasal polyps Hoarseness, throat symptoms and swallowing problems Snoring Blocked ears &amp;amp; ear wax Bell’s plasy  New patient appointments are 30 minutes, follow up appointments are 15 minutes</description>
+    </item>
+    
+    <item>
+      <title>Our specialisms</title>
+      <link>https://jimswebhost.github.io/services/sevices1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimswebhost.github.io/services/sevices1/</guid>
+      <description>Sub-specialist conditions for Mr Moor include;
+ Thyroid and parathyroid disease Neck lumps and bumps Salivary gland disease Head &amp;amp; Neck cancer Problems with voice and singing.  For Mr Wilson, sub-specialist conditions include;
+ Chronic ear disease and mastoidectomy Hearing disorders and hearing implants Stapedectomy Balance disorders Septorhinoplasty Tinnitus  </description>
+    </item>
+    
+    <item>
+      <title>The Spire Hospital</title>
+      <link>https://jimswebhost.github.io/services/sevices3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimswebhost.github.io/services/sevices3/</guid>
+      <description>We offer out patient consultations and surgical procedures at Spire Leeds Hospital Jackson Avenue, Roundhay, Leeds LS8 1NT (view map)
+Mr Moor also offers out patient appointments and surgery at Nuffield Leeds Hospital 2 Leighton Street, Leeds LS1 3EB (view map)</description>
+    </item>
+    
+  </channel>
+</rss>
